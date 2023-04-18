@@ -13,6 +13,7 @@ public class Gitprotesting {
 		else {
 			System.out.println("odd");
 		}
+		System.out.println("output");
 		
 	
 	}
